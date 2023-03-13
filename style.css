@@ -99,3 +99,11 @@ p {
   box-shadow: var(--box-shadow);
   color: white;
 }
+@media (max-width: 538px) {
+  .primary-link {
+    text-align: center;
+  }
+  p {
+    display: none;
+  }
+}
