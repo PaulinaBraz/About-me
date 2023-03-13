@@ -102,6 +102,7 @@ p {
 @media (max-width: 538px) {
   .primary-link {
     text-align: center;
+    display: block;
   }
   p {
     display: none;
